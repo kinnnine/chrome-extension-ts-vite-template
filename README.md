@@ -1,6 +1,6 @@
 # Chrome Extension with TypeScript
 
-This is a plain and simple Chrome Extension Manifest v3 project, configured with TypeScript and Vite.
+This is a plain and simple Chrome Extension Manifest v3 project, configured with TypeScript, CRXJS and Vite.
 
 ## Quick start
 
@@ -17,4 +17,6 @@ Finally, install required packages using your package manager of choice, it can 
 [Chrome Extension manifest.json Permissions List](https://developer.chrome.com/docs/extensions/reference/permissions-list)<br>
 [TypeScript Cheatsheets](https://www.typescriptlang.org/cheatsheets/)<br>
 [TypeScript TSConfig Reference](https://www.typescriptlang.org/tsconfig/)<br>
+[CRXJS Introduction](https://crxjs.dev/guide/introduction)<br>
+[CRXJS Configuration](https://crxjs.dev/concepts/manifest)<br>
 [Vite Configuration](https://vite.dev/config/)

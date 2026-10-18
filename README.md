@@ -1,2 +1,2 @@
-# chrome-extension-vite-template
-Chrome Extension Manifest v3 Template for Vite
+# Chrome Extension with TypeScript
+Chrome Extension Manifest v3 TypeScript Template for Vite
